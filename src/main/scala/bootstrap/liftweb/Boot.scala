@@ -66,6 +66,7 @@ class Boot extends Loggable {
     //We skip the FoBo built in JQuery in favor for the FoBo included lift-jquery-module
     //FoBo.InitParam.JQuery=FoBo.JQuery171  
     FoBo.InitParam.ToolKit=FoBo.Bootstrap210
+    FoBo.InitParam.ToolKit=FoBo.JQueryMobile110
     FoBo.InitParam.ToolKit=FoBo.PrettifyJun2011
     FoBo.init()
 
