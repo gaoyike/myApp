@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <title>Home</title>
+</head>
+<body class="lift:content_id=main">
+<div id="main" class="lift:surround?with=default;at=content">
+
+    <div class="container-fluid lift:comet?type=updateClient">
+        <div class="row-fluid">
+            <div class="span9">
+                <header class="jumbotron masthead">
+                    <hr class="soften"  style="background: transparent"/><!-- fen ge xian -->
+                    <h1>Trade Trade Trade</h1>
+                        <a id="totalpost"></a>
+                    <p class="download-info">
+
+                        <button id="view" style="width:200px;height:50px;" class="btn btn-primary btn-large lift:redirectUser.view" >View Posts</button>
+                        <button id="post" style="width:200px;height:50px;" class="btn btn-primary btn-large lift:redirectUser.post" >Post My Stuff</button>
+                    </p>
+
+
+
+
+                </header>
+                <p></p>
+
+            </div>
+
+            <!-- The side column stuff could be a include two -->
+            <div class="span3">
+                <div class="well sidebar-nav">
+                    <ul class="nav nav-list">
+                        <li class="nav-header">Recent Posts</li>
+                            <div id="cometdata"></div>
+                            <script data-lift="FoBo.Bootstrap.popover?id=.mypopover&options=placement:'left', trigger:'hover'"></script>
+
+
+
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+
+
+			<span class='lift:embed?what=_embededFooter'>Embed the footer
+				here.</span>
+    </div>
+
+
+
+
+</div>
+</body>
+</html>

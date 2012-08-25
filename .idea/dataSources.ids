@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="105caada-1b10-432c-a9bf-6bcb3d3c8ef2">
+    <jdbc-driver>org.h2.Driver</jdbc-driver>
+    <jdbc-url>jdbc:h2:lift_proto.db</jdbc-url>
+    <libraries>
+      <library>
+        <url>jar://$USER_HOME$/.ivy2/cache/com.h2database/h2/jars/h2-1.2.147.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>

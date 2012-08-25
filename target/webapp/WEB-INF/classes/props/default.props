@@ -1,0 +1,9 @@
+##any db drop and create data true/false
+db.schemify=true
+
+##mysql db setup
+mysql.db.driver=com.mysql.jdbc.Driver
+mysql.db.url=jdbc:cloudbees://myliftdb
+mysql.db.user=readman
+mysql.db.pass=88888888
+

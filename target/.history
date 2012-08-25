@@ -1,0 +1,41 @@
+update
+gen-idea
+reload
+ls
+reboot
+update
+container:start
+reboot
+update
+gen-idea
+pro
+container:stop
+container:start
+container:stop
+container:start
+gen-idea
+exit
+container:start
+~;container:start;container:reload /
+exiot
+exit
+~:container:start;container:reload /
+~;container:start;container:reload /
+exit
+update
+reload
+exit
+gen-idea
+package
+update
+container:start
+container:start -
+container:start -D
+ls
+exit
+package
+exit
+update
+gen-idea 
+exit
+console

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.squeryl_squeryl_2.9.1_0.9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.squeryl/squeryl_2.9.1/jars/squeryl_2.9.1-0.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.squeryl/squeryl_2.9.1/srcs/squeryl_2.9.1-0.9.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
